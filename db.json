@@ -1,0 +1,28 @@
+{
+  "cadastrados": [
+    {
+      "usuario": "123",
+      "senha": "1234",
+      "email": "123@123",
+      "id": 1
+    },
+    {
+      "usuario": "12",
+      "senha": "123",
+      "email": "123@123",
+      "id": 2
+    },
+    {
+      "usuario": "123",
+      "senha": "123",
+      "email": "123@123",
+      "id": 3
+    },
+    {
+      "usuario": "123",
+      "senha": "123",
+      "email": "123@123",
+      "id": 4
+    }
+  ]
+}
